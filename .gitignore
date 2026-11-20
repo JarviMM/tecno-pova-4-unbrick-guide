@@ -1,0 +1,15 @@
+# Binaries and ROM images (too large for GitHub)
+*.img
+*.bin
+*.zip
+*.tar
+*.gz
+*.7z
+*.rar
+
+# Platform tools & local logs
+platform-tools/
+*.log
+*.tmp
+.DS_Store
+Thumbs.db
